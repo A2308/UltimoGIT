@@ -1,1 +1,4 @@
-Haré un pequeño resumen de lo aprendido en el submódulo
+Haré un pequeño resumen de lo aprendido en el submódulo.
+He aprendido sobre la aplicación "GIT BASH" el cómo iniciar un repositorio, tomar pantallazos, cambiar desde dicha aplicación
+algo que tenemos en Visual Studio Code. 
+Los comandos básicos para aprender a manejar esta aplicación.

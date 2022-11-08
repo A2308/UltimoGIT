@@ -1,1 +1,5 @@
 Hoy realizaremos la última practica de git. Para continuar con Phyton 
+Procedemos creando una carpeta llamada "Ultima practica git", la abrimos en virtual studio code e hicimos una breve introducción
+en dos carpetas llamadas "Informe.txt" y "conclusion.txt".     Iniciamos el repositorio en git bash y adicionamos los archivos anteriormente mencionados,
+revisamos el estado del repositorio fijándonos que al anexarlos aparezcan en color verde que es quien indica que se agregó de manera correcta.
+Finalizamos realizando el primer commit de la práctica.
